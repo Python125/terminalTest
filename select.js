@@ -166,7 +166,7 @@ const jsFrameworkSel = new Select({
     options: ["Celsius", "Fahrenheit"],
     answers: ["celsius", "fahrenheit"],
     pointer: ">",
-    color: "magenta"
+    color: "blue"
 })
 
 jsFrameworkSel.start();
